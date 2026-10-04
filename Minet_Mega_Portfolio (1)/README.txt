@@ -1,0 +1,1 @@
+Open index.html in a browser. Replace assets/minet.jpg to change the photo. Edit text directly in the .html files and colours at the top of style.css.
